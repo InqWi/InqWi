@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+Нou can find tehere some vulnerability analysis and pentesting stuff :)
+
 <!--
 [![python](https://user-images.githubusercontent.com/49790977/172412128-309cd361-9b29-4a05-a8bc-6630d875f8cb.svg)](https://www.python.org/)
 [![c_plus_plus](https://user-images.githubusercontent.com/49790977/170052129-8ab11c77-1f27-4647-b8b0-5d2e8e5c3f4c.svg)](https://docs.microsoft.com/en-us/cpp/cpp/?view=msvc-160)
