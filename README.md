@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-You can find tehere some vulnerability analysis and pentesting stuff :)
+You can find theere some vulnerability analysis and pentesting stuff :)
 
 <!--
 [![python](https://user-images.githubusercontent.com/49790977/172412128-309cd361-9b29-4a05-a8bc-6630d875f8cb.svg)](https://www.python.org/)
